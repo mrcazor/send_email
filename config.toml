@@ -1,0 +1,6 @@
+[default]
+mail_def = 'mail'
+
+[user]
+email = 'your_email'
+password = 'your_password'
